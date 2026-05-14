@@ -1,1 +1,2 @@
-This system separates the core round logic from the management interface, allowing developers to easily implement any game mode (deathmatch, capture points, racing, etc.) without modifying the core timing or state engine.
+This repository provides a flexible generation framework that leverages OOP design patterns to create scalable, maintainable procedural content generators. Whether you need to generate terrain, items, NPCs, levels, or any other game content, this system offers a clean architecture that's easy to extend.
+
